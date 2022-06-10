@@ -1,0 +1,8 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:koralbit/todo-app-web.git
+	branch = main
+[submodule "api"]
+	path = api
+	url = git@github.com:koralbit/todo-app-api.git
+	branch = main
